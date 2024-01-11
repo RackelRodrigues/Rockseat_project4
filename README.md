@@ -25,9 +25,6 @@ Durante o desenvolvimento, alguns problemas foram identificados, principalmente 
 - Corrigir problemas identificados com a colocação de objetos.
 - Adicionar mais recursos e funcionalidades.
 
-## Link do Desafio
-
-Este projeto foi desenvolvido com base no Desafio Discover da Rocketseat. Você pode encontrar o layout do desafio no Figma [aqui](https://www.figma.com/file/6fPiJhsPWull50CT8sKKsM/Rocket-NFTs-%E2%80%A2-Desafio-Discover-(Community)?node-id=2305%3A116&mode=dev).
 
 ## Como Contribuir
 
