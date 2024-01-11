@@ -14,8 +14,12 @@ import Galeria8  from "../../Images/galeria-8.png"
 
 
 const Images = styled.img`
-width: 308px;
+width: 320px;
 height: 198px;
+transition: transform 0.2s ease-in-out; 
+&:hover {
+    transform: scale(1.05); 
+}
 `;
 
 const P = styled.p`
@@ -91,12 +95,14 @@ const ConteinerAll = styled.div`
 display: flex;
 justify-content: space-around;
 align-items: center;
+
 `;
 
 const BoxPictures = styled.div`
 display: grid;
 grid-template-columns: repeat(4, 1fr);
-grid-gap: 20px;
+grid-gap: 50px;
+grid-column-gap: 50px;
 margin-top: 100px;
 
 `;

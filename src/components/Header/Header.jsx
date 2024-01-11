@@ -5,6 +5,7 @@ import LogoMeta from "../../Images/logo_MetaMask.svg"
 
 const RockeatLogo =  styled.img`
 width: 200px;
+margin-left: 95px
 `;
 
 
@@ -24,6 +25,12 @@ font-style: normal;
 font-weight: 400;
 margin-right: 60px;
 cursor: pointer;
+transition: transform 0.2s ease-in-out, border 0.2s ease-in-out; 
+
+&:hover {
+  transform: scale(1.02); 
+  border-bottom: 2px solid white;
+}
 `;
 
 const ConteinerLinks = styled.div`
@@ -44,7 +51,7 @@ border-radius: 5px;
 display: flex;
 align-items: center;
 border: none;
-
+margin-right: 110px;
 &:hover{
   outline: none;
   background-color: #f5f5f5;
@@ -63,7 +70,7 @@ position: absolute;
 top: 0; 
 background-color: transparent;
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 align-items: center;
 
 
