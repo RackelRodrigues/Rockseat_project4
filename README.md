@@ -1,14 +1,17 @@
 # Rocket NFTs Landing Page
 
-![Rocket NFTs](link-para-uma-imagem-ou-gif)
+![rockseat](https://github.com/RackelRodrigues/Rockseat_projects/assets/101216652/993cfdee-b537-4eb0-9bb6-ba7db915581e)
+
+
+
 
 ## Descrição do Projeto
 
-Este projeto é uma landing page completa sobre NFTs, apresentando listagens de artes e artistas em destaque. Ele foi desenvolvido como parte do Desafio Discover da Rocketseat.
+Este projeto é uma landing page completa sobre NFTs, apresentando listagens de artes e artistas em destaque. Ele foi desenvolvido como parte do [Desafio Discover da Rocketseat](https://www.figma.com/file/6fPiJhsPWull50CT8sKKsM/Rocket-NFTs-%E2%80%A2-Desafio-Discover-(Community)?node-id=2305%3A117&mode=dev).
 
 ## Demonstração
 
-Inclua um GIF ou imagem que mostre a landing page em funcionamento.
+Clique na imagem abaixo para visualizar a landing page em funcionamento:
 
 ![Demonstração](https://github.com/RackelRodrigues/Rockseat_projects/assets/101216652/b1370b13-e105-4540-b210-7b4f68e3bb40)
 
